@@ -1,8 +1,13 @@
 ## About Ryan
 
-You can use the [editor on GitHub](https://github.com/justteresa/helloryan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/justteresa/helloryan/edit/master/README.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- School: The Tueva School
+- Current: Junior
+- Weighted GPA Expected: 4:00
+- Class Percentile: ~ Top 2%
+- Graduation Class Year:2021
+- I am looking for a intership with the stem industry that will enable me to creatively showcase my talent.
 
 ## Education Background
 
@@ -28,7 +33,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Achivements
+## Professional Skill
+## Language
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justteresa/helloryan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
