@@ -22,23 +22,6 @@ The Nueva School, Hillsborough, CA
 2017 - 2021
 9th Grade - 12th Grade
 The Nueva Upper School, San Mateo, CA
-
-```markdown
-Syntax highlighted code block
-
-## Achivements
-## Professional Skill
-## Language
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](Desktop/RyanCheng.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
