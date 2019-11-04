@@ -10,7 +10,7 @@ I am looking for a intership with the stem industry that will enable me to creat
 
 
 ## Education Background
-
+```markdown
 2008 - 2013
 Kindergarden - 5th Grade
 Dorris Eaton School, Walnut Creek, CA
