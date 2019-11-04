@@ -1,6 +1,6 @@
 ## About Ryan
 
-I am looking for a intership with the stem industry that will enable me to creatively showcase my talent. 
+I am looking for a intership with the stem industry that will enable me to creatively showcase my talent. :wave:
 
 - School: The Nueva School
 - Current: Junior
