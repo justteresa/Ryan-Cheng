@@ -1,5 +1,5 @@
 ## About Ryan
-```markdown
+
 I am looking for a intership with the stem industry that will enable me to creatively showcase my talent. 
 
 - School: The Nueva School
@@ -7,7 +7,7 @@ I am looking for a intership with the stem industry that will enable me to creat
 - Weighted GPA Expected: 4:00
 - Class Percentile: ~ Top 2%
 - Graduation Class Year:2021
-```
+
 
 ## Education Background
 ```markdown
