@@ -41,13 +41,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ## Language
-```markdown
+
 - English (Native)
 - Japanese (Read, Speak)
 - Chinese (Speak only)
 - Spanish (Limit)
-```
 
+(https://justteresa.github.com/images/RyanCheng.jpg)
 ![GitHub Logo](/images/RyanCheng.jpg)
 Format: ![Alt Text](url)
 
