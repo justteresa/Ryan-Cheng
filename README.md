@@ -1,5 +1,5 @@
 ## About Ryan
-
+```markdown
 I am looking for a intership with the stem industry that will enable me to creatively showcase my talent. 
 
 - School: The Nueva School
@@ -7,7 +7,7 @@ I am looking for a intership with the stem industry that will enable me to creat
 - Weighted GPA Expected: 4:00
 - Class Percentile: ~ Top 2%
 - Graduation Class Year:2021
-
+```
 
 ## Education Background
 ```markdown
@@ -27,27 +27,32 @@ The Nueva Upper School, San Mateo, CA
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Achivements
+```markdown
 - The John Hopkins University, Center for Talented Youth: Award for High Honors
 - The Davidson Institute: Young School Program
 - Jimmy Song Blockchain Capitital LLC: Scholarship for 2 days program
 - Summer Intership at Standford computer science department: 
-
+```
 
 ## Professional Skill
+```markdown
 - C Language
 - VR Program
+```
 
 ## Language
+```markdown
 - English (Native)
 - Japanese (Read, Speak)
 - Chinese (Speak only)
 - Spanish (Limit)
+```
 
 ![GitHub Logo](/images/RyanCheng.jpg)
 Format: ![Alt Text](url)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justteresa/helloryan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ryachen@nuevaschool.com
