@@ -14,7 +14,6 @@ I am looking for a intership with the stem industry that will enable me to creat
 2008 - 2013
 Kindergarden - 5th Grade
 Dorris Eaton School, Walnut Creek, CA
-
 2014 - 2016
 6th Grade - 8th Grade
 The Nueva School, Hillsborough, CA
