@@ -17,11 +17,9 @@ Dorris Eaton School, Walnut Creek, CA
 2014 - 2016
 6th Grade - 8th Grade
 The Nueva School, Hillsborough, CA
-
 2017 - 2021
 9th Grade - 12th Grade
 The Nueva Upper School, San Mateo, CA
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
